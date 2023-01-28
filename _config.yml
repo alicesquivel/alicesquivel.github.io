@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter "alicesquivel"
 facebook:
   username               : 
   app_id                 :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/alicesquivelpy"
+  twitter          : "alicesquivelpy"
   vine             :
   weibo            :
   xing             :
