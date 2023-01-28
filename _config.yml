@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alicia Esquivel Morel"
+title                    : "VIMAN-LAB"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
+name                     : &name "Alicia Esquivel Morel"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
