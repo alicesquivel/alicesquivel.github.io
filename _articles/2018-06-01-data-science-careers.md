@@ -6,8 +6,7 @@ excerpt: "A common problem in UAS (a.k.a. drone systems) research and developmen
 date: 2020-4-27
 
 ---
-citation: 'Qu, Chengyi, Alicia Esquivel Morel, Drew Dahlquist, and Prasad Calyam. "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility." In Geospatial Informatics X, vol. 11398, pp. 59-66. SPIE, 2020. <a href='http://www.alicesquivel.github.io/papers/Designoftrace-basedNS-3simulationsforUASvideoanalyticswithgeospatialmobility.pdf'>Download PDF here</a>'
+citation: 'Qu, Chengyi, Alicia Esquivel Morel, Drew Dahlquist, and Prasad Calyam. "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility." In Geospatial Informatics X, vol. 11398, pp. 59-66. SPIE, 2020. <a href='http://www.alicesquivel.github.io/papers/Designoftrace-basedNS-3simulationsforUASvideoanalyticswithgeospatialmobility.pdf'>Download PDF here</a>
 ---
 
 Recommended citation: Qu, Chengyi, Alicia Esquivel Morel, Drew Dahlquist, and Prasad Calyam. "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility." In Geospatial Informatics X, vol. 11398, pp. 59-66. SPIE, 2020. http://www.alicesquivel.github.io/papers/Designoftrace-basedNS-3simulationsforUASvideoanalyticswithgeospatialmobility.pdf
-
