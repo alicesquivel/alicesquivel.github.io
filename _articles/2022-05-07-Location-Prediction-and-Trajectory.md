@@ -2,8 +2,9 @@
 title: "Location Prediction and Trajectory Optimization in Multi-UAV Application Missions"
 category: articles
 permalink: /articles/2022-05-07-Location-Prediction-and-Trajectory/
-excerpt: "Multi-drone systems operating in Flying Ad Hoc Networks (FANETS) are inherently insecure and require efficient security schemes to defend against cyber-attacks such as e.g., Man-in-the-middle, Replay and Denial of Service attacks."
-venue: "2021 17th International Conference on Network and Service Management (CNSM)"
+excerpt: "Unmanned aerial vehicles (a.k.a. drones) have a wide range of applications in e.g., aerial surveillance, mapping, imaging, monitoring, maritime operations, parcel delivery, and disaster response management. Their operations require reliable networking environments and location-based services in air-to-air links with co-operative drones, or air-to-ground links in concert with ground control stations."
+venue: "Intelligent Unmanned Air Vehicles Communications for Public Safety Networks"
+
 date: 2022-05-07
 ---
 
