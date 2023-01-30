@@ -3,9 +3,7 @@ title: "Design of trace-based NS-3 simulations for UAS video analytics with geos
 category: articles
 permalink: /articles/2020-04-27-Design-of-trace-based-NS-3-simulations-for-UAS-video-analytics-with-geospatial-mobility/
 excerpt: "A common problem in UAS (a.k.a. drone systems) research and development is the cost related to deploying and running realistic testbeds. Due to the constraints in safe operation, handling limited energy resources, and government regulation restrictions, UAS testbed building is time-consuming and not easily configurable for high-scale experiments."
-
 venue: "Geospatial Informatics X"
-
 date: 2020-4-27
 ---
 
