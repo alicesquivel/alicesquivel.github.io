@@ -1,14 +1,13 @@
 ---
-title: "Career Paths and Prospects in Academic Data Science: Report of the Moore-Sloan Data Science Environments Survey"
+title: "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility"
 category: articles
-permalink: /articles/2018-06-01-data-science-careers/ 
-excerpt: "This report of a survey of academic data scientists discusses what data science in the academy is, and various issues around the career paths for those in universities who practice and support data science. We provide evidence-based recommendations about how universities can better support an emerging set of roles and responsibilities around data and computation within and across academic fields."
-date: 2018-06-01
-citation: 'R. Stuart Geiger, Charlotte Mazel-Cabasse, Chihoko Cullens, Laura Noren, Brittany Fiore-Gartland, Diya Das, and Henry Brady (2018). _Career Paths and Prospects in Academic Data Science: Report of the Moore-Sloan Data Science Environments Survey._ Report. Berkeley, California: UC-Berkeley Institute for Data Science. <a href="https://osf.io/preprints/socarxiv/xe823/">https://osf.io/preprints/socarxiv/xe823/</a>'
+permalink: /articles/2020-04-27-Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility/
+excerpt: "A common problem in UAS (a.k.a. drone systems) research and development is the cost related to deploying and running realistic testbeds. Due to the constraints in safe operation, handling limited energy resources, and government regulation restrictions, UAS testbed building is time-consuming and not easily configurable for high-scale experiments."
+date: 2020-4-27
+
+
+citation: 'Qu, Chengyi, Alicia Esquivel Morel, Drew Dahlquist, and Prasad Calyam. "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility." In Geospatial Informatics X, vol. 11398, pp. 59-66. SPIE, 2020. <a href='http://www.alicesquivel.github.io/papers/Designoftrace-basedNS-3simulationsforUASvideoanalyticswithgeospatialmobility.pdf'>Download PDF here</a>'
 ---
 
-Read our <a href="https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science">blog post about the article on the BIDS blog</a>.
+Recommended citation: Qu, Chengyi, Alicia Esquivel Morel, Drew Dahlquist, and Prasad Calyam. "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility." In Geospatial Informatics X, vol. 11398, pp. 59-66. SPIE, 2020. http://www.alicesquivel.github.io/papers/Designoftrace-basedNS-3simulationsforUASvideoanalyticswithgeospatialmobility.pdf
 
-Abstract: This report is based on a 2016 survey of members and affiliates of three institutes of data science at major U.S. research universities, focusing on career paths for data scientists within academia. After considering how our respondents define data science, we identify various activities, priorities, resources, and concerns around data science in academia, especially with respect to data science careers. We end by providing recommendations about how universities can better support an emerging set of roles and responsibilities around data and computation within and across academic fields.
-
-Recommended citation: R. Stuart Geiger, Charlotte Mazel-Cabasse, Chihoko Cullens, Laura Noren, Brittany Fiore-Gartland, Diya Das, and Henry Brady (2018). _Career Paths and Prospects in Academic Data Science: Report of the Moore-Sloan Data Science Environments Survey._ Report. Berkeley, California: UC-Berkeley Institute for Data Science. <a href="https://osf.io/preprints/socarxiv/xe823/">https://osf.io/preprints/socarxiv/xe823/</a>
