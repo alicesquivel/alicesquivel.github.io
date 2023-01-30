@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Network-edge Connectivity and Computation Security in Drone Video Analytics"
 category: articles
-permalink: /articles/2020-04-27-Design-of-trace-based-NS-3-simulations-for-UAS-video-analytics-with-geospatial-mobility/
+permalink: /articles/2020-10-13-Enhancing-network-edge/
 excerpt: "Multi-drone systems operating in Flying Ad Hoc Networks (FANETS) are inherently insecure and require efficient security schemes to defend against cyber-attacks such as e.g., Man-in-the-middle, Replay and Denial of Service attacks."
 venue: "2020 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)"
 
