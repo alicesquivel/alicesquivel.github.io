@@ -3,14 +3,13 @@ main:
   - title: "Publications"
     url: /articles/
 
-  - title: "Talks"
-    url: /talks/    
+  
     
   # - title: "Expressions"
   #   url: /expressions/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -20,3 +19,6 @@ main:
   
   - title: "Contact"
     url: /contact/
+    
+  - title: "Fun Stuff"
+    url: /fun/  
