@@ -1,7 +1,7 @@
 ---
 title: "Dronenet-sim: A learning-based trace simulation framework for control networking in drone video analytics"
 category: articles
-permalink: /articles/2020-04-27-Design-of-trace-based-NS-3-simulations-for-UAS-video-analytics-with-geospatial-mobility/
+permalink: /articles/2020-06-29-Dronenet-sim/
 excerpt: "Realistic UAV testbed building for developing novel network control algorithms relating to video streaming/analytics is time-consuming and difficult. Challenges arise when executing high-scale drone video analytics experiments due to: constraints in drone manufacturing, government regulation restrictions, and limited energy resources."
 venue: "Proceedings of the 6th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications"
 date: 2020-06-19
