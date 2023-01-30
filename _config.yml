@@ -81,11 +81,12 @@ social:
 author:
   name             : "Alicia Esquivel Morel"
   avatar           : "alicia_profile.jpg"
-  bio              : "PhD student in Computer Science<br> <br>University of Missouri at Columbia, USA <a style='color: black;' href='https://engineering.missouri.edu/departments/eecs/'>EECS Department</a>"
+  bio              : "PhD student in Computer Science<br> <br>University of Missouri at Columbia, USA 
+                      <a style='color: black;' href='https://engineering.missouri.edu/departments/eecs/'><br/>EECS Department</a>"
   location         : "Columbia, MO"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=2-7cgFsAAAAJ&hl=en"
-  email            : "ace6qv at umsystem dot edu"
+  email            : "ace6qv@umsystem.edu"
   uri              : 
   bitbucket        :
   codepen          :
