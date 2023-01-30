@@ -2,9 +2,10 @@
 title: "Learning-based Multi-Drone Network Edge Orchestration for Video Analytics"
 category: articles
 permalink: /articles/2022-05-02-Learning-based-Multi-Drone/
-excerpt: "Multi-drone systems operating in Flying Ad Hoc Networks (FANETS) are inherently insecure and require efficient security schemes to defend against
-cyber-attacks such as e.g., Man-in-the-middle, Replay and Denial of Service attacks."
-venue: "2021 17th International Conference on Network and Service Management (CNSM)"
+excerpt: "Unmanned aerial vehicles (a.k.a. drones) with high-resolution video cameras are useful for applications in e.g., public safety and smart farming.
+Inefficient configurations in drone video analytics applications due to edge network miscon-figurations can result in degraded video quality and 
+inefficient resource utilization."
+venue: "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications"
 
 date: 2022-05-02
 ---
