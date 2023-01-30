@@ -2,7 +2,7 @@
 title: "Obstacle-Aware and Energy-Efficient Multi-Drone Coordination and Networking for Disaster Response"
 category: articles
 permalink: /articles/2021-10-25-Obstacle-Aware/
-excerpt: "Multi-drone systems operating in Flying Ad Hoc Networks (FANETS) are inherently insecure and require efficient security schemes to defend against cyber-attacks such as e.g., Man-in-the-middle, Replay and Denial of Service attacks."
+excerpt: "Unmanned aerial vehicles or drones provide new capabilities for disaster response management (DRM). In a DRM scenario, multiple heterogeneous drones collaboratively work together forming a flying ad-hoc network (FANET) instantiated by a ground control station."
 venue: "2021 17th International Conference on Network and Service Management (CNSM)"
 date: 2021-10-25
 ---
