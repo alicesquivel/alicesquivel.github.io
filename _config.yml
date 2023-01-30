@@ -180,9 +180,6 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
-  expressions:
-    output: false
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,15 +224,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expressions
-  - scope:
-      path: ""
-      type: expressions
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
