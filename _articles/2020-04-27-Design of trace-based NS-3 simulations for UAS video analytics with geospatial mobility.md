@@ -3,7 +3,7 @@ title: "Design of trace-based NS-3 simulations for UAS video analytics with geos
 category: articles
 permalink: /articles/2009-10-01-gnovis-habermas-understand-internet/
 venue: "Geospatial Informatics X"
-excerpt: 'Habermasians have been debating about the role of the Internet in the public sphere, but they have all taken for granted the highly-automated software infrastructures that mediate our knowledge of the blogosphere.'
+excerpt: 'A common problem in UAS (a.k.a. drone systems) research and development is the cost related to deploying and running realistic testbeds. Due to the constraints in safe operation, handling limited energy resources, and government regulation restrictions, UAS testbed building is time-consuming and not easily configurable for high-scale experiments.'
 date: 2020/4/27
 venue: 'Geospatial Informatics X'
 citation: 'Qu, Chengyi, Alicia Esquivel Morel, Drew Dahlquist, and Prasad Calyam. "Design of trace-based NS-3 simulations for UAS video analytics with geospatial mobility." In Geospatial Informatics X, vol. 11398, pp. 59-66. SPIE, 2020. http://www.alicesquivel.github.io/papers/Designoftrace-basedNS-3simulationsforUASvideoanalyticswithgeospatialmobility.pdf'
