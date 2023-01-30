@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "alicesquivel"
+  username               : &twitter "alicesquivelpy"
 facebook:
   username               : 
   app_id                 :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alicesquivel/"
   orcid            : "https://orcid.org/0000-0002-1766-5370"
   pinterest        :
   soundcloud       :
